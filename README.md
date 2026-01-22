@@ -216,20 +216,15 @@ When projected onto PCA space:
 ---
 
 ## ✍️ Authors
-AnaPtedim: [
-](https://github.com/AnaPTedim)
+[Ana P Tedim](https://github.com/AnaPTedim)
 
-aartetxeizaguirre: [
-](https://github.com/aartetxeizaguirre-max)---
+[aartetxeizaguirre](https://github.com/aartetxeizaguirre-max)---
 
-AlbaEliasRod: [
-](https://github.com/AlbaEliasRod)
+[AlbaEliasRod](https://github.com/AlbaEliasRod)
 
-Alejandro Pascuál Hernandez: [
-](https://github.com/Alex-PH-Lau)
+[Alejandro Pascuál Hernandez](https://github.com/Alex-PH-Lau)
 
-Alejandra Martin: [
-](https://github.com/al3msvll)
+[Alejandra Martin](https://github.com/al3msvll)
 
 ## 📜 License
 

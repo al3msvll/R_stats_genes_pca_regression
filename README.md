@@ -1,8 +1,8 @@
 # 🧬 Multivariate Analysis of Obesity-Related Gene Expression
 
-**Master in Bioinformatics – R statistics project **
-**Group 8**
-**Date:** January 2026
+Master in Bioinformatics – R statistics project
+Group 8
+Date: January 2026
 
 ---
 
@@ -19,7 +19,7 @@ The analysis integrates:
 * Visualization of gene contributions
 * Biological interpretation in relation to BMI (IMC)
 
-All analyses were performed in **R**, following reproducible and transparent data-science practices.
+All analyses were performed in R, following reproducible and transparent data-science practices.
 
 ---
 
@@ -216,11 +216,20 @@ When projected onto PCA space:
 ---
 
 ## ✍️ Authors
+AnaPtedim: [
+](https://github.com/AnaPTedim)
 
-**Group 8 – Master in Bioinformatics**
-January 2026
+aartetxeizaguirre: [
+](https://github.com/aartetxeizaguirre-max)---
 
----
+AlbaEliasRod: [
+](https://github.com/AlbaEliasRod)
+
+Alejandro Pascuál Hernandez: [
+](https://github.com/Alex-PH-Lau)
+
+Alejandra Martin: [
+](https://github.com/al3msvll)
 
 ## 📜 License
 
@@ -229,3 +238,5 @@ This repository is intended for academic and educational use only.
 ---
 
 ✨ *This project demonstrates the application of unsupervised learning to biological systems, highlighting how multivariate statistics can reveal hidden structure in complex genomic data.*
+
+

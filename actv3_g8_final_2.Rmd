@@ -1,5 +1,5 @@
 ---
-title: "Resolución Actividad 3 máster Bioinformática (2025)"
+title: "Resolución Actividad 3 máster Bioinformática (2026)"
 author: "Grupo 8"
 date: "2026-01-21"
 output: 
@@ -624,5 +624,6 @@ txt_p_pc1   <- sprintf("%.3f", p_pc1_t3)
 ```
 
 ## Interpretación de los resultados
+
 
 El análisis de regresión **logística** revela que la edad es un predictor significativo del riesgo de obesidad ($OR = `r txt_or_edad`, p = `r txt_p_edad`$), lo que indica que **la probabilidad de padecer obesidad aumenta** significativamente con cada año de edad en esta población. En cuanto a los componentes genéticos, los individuos del tercil superior de PC1 mostraron un riesgo **`r if(as.numeric(txt_or_pc1) > 1) "mayor" else "menor"`** ($OR = `r txt_or_pc1`$) en comparación con el grupo de referencia, aunque esta asociación no alcanzó la significación estadística ($p = `r txt_p_pc1`$). Estos resultados sugieren que, en este modelo ajustado, la edad cronológica tiene un peso preponderante sobre los perfiles de expresión génica analizados a la hora de determinar el estatus de obesidad.
